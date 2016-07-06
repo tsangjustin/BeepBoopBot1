@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/tsangjustin/BeepBoopBot1/issues"
   },
-  "homepage": "https://github.com/tsangjustin/BeepBoopBot1#readme"
+  "homepage": "https://github.com/tsangjustin/BeepBoopBot1#readme",
   "dependencies": {
     "beepboop-botkit": "^1.4.0",
     "botkit": "~0.1.1"
